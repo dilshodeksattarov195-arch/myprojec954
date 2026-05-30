@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingfender",
+        "uuid": 3567960,
+        "checksum": "8pgm0l"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
